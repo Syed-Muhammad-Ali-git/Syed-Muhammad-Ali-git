@@ -42,8 +42,7 @@
 | 📰 **Pakistan Crises Updates**        | Real-time data website showing national updates using APIs. | 🔗 [View Project](https://pakistan-crises-updates.vercel.app/)                                           |
 | 🎥 **YouTube UI Clone**               | YouTube interface recreated with Tailwind CSS.              | 🔗 [View Project](https://syed-muhammad-ali-git.github.io/Tailwind-Assignments/youtube-clone/index.html) |
 | 🔍 **Google UI Clone**                | A clean and responsive Google UI clone.                     | 🔗 [View Project](https://youtube-google-ui-clone.netlify.app/google-ui/)                                |
-| 🧮 **JavaScript Projects Collection** | A collection of JS mini-projects:                           | 🔗 [View Project](https://github.com/Syed-
-Muhammad-Ali-git)
+| 🧮 **JavaScript Projects Collection** | A collection of JS mini-projects including:                 |
 
 [Calculator](https://syed-muhammad-ali-git.github.io/Javasscript-assignments/calculator/index.html) •  
  [Weather App](https://syed-muhammad-ali-git.github.io/Javasscript-assignments/weather-app/index.html) •  
@@ -52,7 +51,8 @@ Muhammad-Ali-git)
  [Todo List](https://syed-muhammad-ali-git.github.io/Javasscript-assignments/todo%20list/index.html) •  
  [Color Button Changer](https://syed-muhammad-ali-git.github.io/Javasscript-assignments/colour_button_changer/index.html) •  
  [Tic Tac Toe](https://syed-muhammad-ali-git.github.io/Javasscript-assignments/tic-tac-toe/index.html) •  
- [Rock Paper Scissor](https://syed-muhammad-ali-git.github.io/Javasscript-assignments/rock-paper-scissor/index.html) |
+ [Rock Paper Scissor](https://syed-muhammad-ali-git.github.io/Javasscript-assignments/rock-paper-scissor/index.html)  
+ <br/>🔗 Explore all projects here → [GitHub Repository](https://github.com/Syed-Muhammad-Ali-git) |
 
 ---
 
@@ -65,7 +65,7 @@ Muhammad-Ali-git)
   <a href="https://ali-portfolio-nine.vercel.app/">
     <img src="https://img.shields.io/badge/Portfolio-black?style=for-the-badge&logo=vercel" />
   </a>
-  <a href="https://github.com/Syed-Muhammad-Ali-Git">
+  <a href="https://github.com/Syed-Muhammad-Ali-git">
     <img src="https://img.shields.io/badge/GitHub-gray?style=for-the-badge&logo=github" />
   </a>
 </p>
