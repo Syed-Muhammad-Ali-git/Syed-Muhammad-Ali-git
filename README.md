@@ -42,7 +42,8 @@
 | 📰 **Pakistan Crises Updates**        | Real-time data website showing national updates using APIs. | 🔗 [View Project](https://pakistan-crises-updates.vercel.app/)                                           |
 | 🎥 **YouTube UI Clone**               | YouTube interface recreated with Tailwind CSS.              | 🔗 [View Project](https://syed-muhammad-ali-git.github.io/Tailwind-Assignments/youtube-clone/index.html) |
 | 🔍 **Google UI Clone**                | A clean and responsive Google UI clone.                     | 🔗 [View Project](https://youtube-google-ui-clone.netlify.app/google-ui/)                                |
-| 🧮 **JavaScript Projects Collection** | A collection of JS mini-projects:                           |
+| 🧮 **JavaScript Projects Collection** | A collection of JS mini-projects:                           | 🔗 [View Project](https://github.com/Syed-
+Muhammad-Ali-git)
 
 [Calculator](https://syed-muhammad-ali-git.github.io/Javasscript-assignments/calculator/index.html) •  
  [Weather App](https://syed-muhammad-ali-git.github.io/Javasscript-assignments/weather-app/index.html) •  
